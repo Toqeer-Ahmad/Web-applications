@@ -7,7 +7,7 @@ In this this project, we will implement Django web framework with bootstrap styl
 - Bootsrap
 
 ## Source
-Source file is available in the files section or can be accessed [here](https://github.com/Toqeer-Ahmad/KMeans-Clustering/blob/main/KMeans.ipynb)
+Source files are available in the files section.
 
 ## Outcome
 Successful demonstration of Web Application using Django and Bootstrap.
