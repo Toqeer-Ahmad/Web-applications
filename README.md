@@ -6,8 +6,8 @@ In this this project, we will implement Django web framework with bootstrap styl
 - Django
 - Bootsrap
 
-## Source
-Source files are available in the files section.
+## Tutorial
+Source files are available in the files section. To see the stuff in actin click [here](https://github.com/Toqeer-Ahmad/Web-applications/blob/main/Tutorial.pdf)
 
 ## Outcome
 Successful demonstration of Web Application using Django and Bootstrap.
